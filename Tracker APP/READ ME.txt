@@ -1,0 +1,12 @@
+This Project was made using expo-cli so make sure you have installed it on your system
+
+First you have to go to track-server dirctory -> src -> then run this command on command prompt : nodemon index.js
+Then open another command prompt
+Then go to tracks directory -> then run this command on command prompt : yarn start
+Then open another command prompt 
+Go to tracks directory -> then run this command on command prompt : ngrok http 3000
+After this ngrok will give you address copy the first address and paste it in the -> tracks->api->tracker.js 
+
+now scan the QR code that is open in your browser with expo-cli app on your mobile and you are good to go
+
+
